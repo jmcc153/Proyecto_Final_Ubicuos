@@ -1,6 +1,6 @@
 # Proyecto_Final_Ubicuos
 
-En este proyecto vamos a presentar un generador de mapas de calor para identificar el recorrido en lugares y así tomar decisiones respecto a la distribucion de diferentes sitios.
+En este proyecto vamos a presentar un generador de mapas de calor para identificar el recorrido en lugares y así tomar decisiones respecto a la distribucion de diferentes sitios. En este repositorio se puede encontrar el código con su respectivo video que explica todo el código y el funcionamiento y además un pdf que indica el valor de este proyecto describiendo la idea.
 
 # Imagenes hardware y funcionamiento
 
@@ -8,3 +8,6 @@ En esta sección les compartimos el funcionamiento del código en la raspberry p
 
 ![funcionamiento_en_raspberry](funcionamiento_en_raspberry.gif)
 ![Hardware](hardware.jpeg)
+
+# Autores
+Jorge Manuel Castillo, Juan Mateo Alban, Lina Daney Hoyos.
